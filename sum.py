@@ -4,4 +4,4 @@ def add(*arg):
 
 if __name__ == "__main__":
     nums = [1, 2, 3, 4, 5]
-    print(add(*nums))
+    print(add(nums))
